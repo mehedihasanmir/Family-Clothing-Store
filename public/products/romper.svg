@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600">
+  <rect width="600" height="600" fill="#fef9c3"/>
+  <path d="M220,130 L270,100 Q300,125 330,100 L380,130 L430,210 L375,245 L375,380 L330,380 L330,470 L270,470 L270,380 L225,380 L225,245 L170,210 Z" fill="#f59e0b"/>
+  <text x="300" y="540" font-size="34" font-weight="bold" text-anchor="middle" fill="#854d0e" font-family="Arial, sans-serif">Baby Romper</text>
+</svg>

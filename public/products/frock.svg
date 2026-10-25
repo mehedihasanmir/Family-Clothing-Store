@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600">
+  <rect width="600" height="600" fill="#fce7f3"/>
+  <path d="M255,110 L345,110 L360,210 L455,460 L145,460 L240,210 Z" fill="#db2777"/>
+  <circle cx="300" cy="105" r="28" fill="#db2777"/>
+  <text x="300" y="540" font-size="34" font-weight="bold" text-anchor="middle" fill="#9d174d" font-family="Arial, sans-serif">Party Frock</text>
+</svg>

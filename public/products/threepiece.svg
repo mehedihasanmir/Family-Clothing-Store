@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600">
+  <rect width="600" height="600" fill="#e0f2fe"/>
+  <path d="M250,110 L350,110 L365,200 L420,460 L180,460 L235,200 Z" fill="#0284c7"/>
+  <path d="M250,110 L210,140 L160,230 L215,260 L240,200 Z" fill="#0369a1"/>
+  <path d="M350,110 L390,140 L440,230 L385,260 L360,200 Z" fill="#0369a1"/>
+  <text x="300" y="540" font-size="34" font-weight="bold" text-anchor="middle" fill="#075985" font-family="Arial, sans-serif">Three-Piece</text>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600">
+  <rect width="600" height="600" fill="#f3f4f6"/>
+  <path d="M210,160 L265,120 Q300,150 335,120 L390,160 L455,245 L385,288 L385,470 L215,470 L215,288 L145,245 Z" fill="#4b5563"/>
+  <path d="M250,125 Q300,60 350,125 Q300,165 250,125 Z" fill="#374151"/>
+  <rect x="265" y="340" width="70" height="60" rx="10" fill="#374151"/>
+  <text x="300" y="540" font-size="34" font-weight="bold" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif">Winter Hoodie</text>
+</svg>

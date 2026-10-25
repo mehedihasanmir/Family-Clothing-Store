@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600">
+  <rect width="600" height="600" fill="#e0e7ff"/>
+  <path d="M225,110 L375,110 L400,470 L320,470 L300,260 L280,470 L200,470 Z" fill="#3730a3"/>
+  <text x="300" y="540" font-size="34" font-weight="bold" text-anchor="middle" fill="#312e81" font-family="Arial, sans-serif">Denim Pants</text>
+</svg>

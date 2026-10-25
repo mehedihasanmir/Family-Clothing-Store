@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600">
+  <rect width="600" height="600" fill="#ecfdf5"/>
+  <path d="M225,120 L275,90 Q300,110 325,90 L375,120 L430,200 L375,235 L375,490 L225,490 L225,235 L170,200 Z" fill="#059669"/>
+  <line x1="300" y1="110" x2="300" y2="240" stroke="#065f46" stroke-width="8"/>
+  <text x="300" y="550" font-size="34" font-weight="bold" text-anchor="middle" fill="#065f46" font-family="Arial, sans-serif">Boys Panjabi</text>
+</svg>
